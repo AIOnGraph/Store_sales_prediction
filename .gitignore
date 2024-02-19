@@ -1,0 +1,10 @@
+.~lock.new_test.csv#
+.~lock.train.csv#
+xgb_model.h5
+NEW_LSTM.h5
+venv/
+predictive-chart.png
+forecasting.png
+train.csv
+new_test.csv
+test.csv
